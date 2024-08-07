@@ -10,7 +10,7 @@ const Footer1 = () => {
         <input
           type="text"
           placeholder='Enter your email address here'
-          className='w-full md:w-3/4 p-2 mb-4 md:mb-0 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400'
+          className='w-full text-black md:w-3/4 p-2 mb-4 md:mb-0 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-yellow-400'
         />
         <button className='w-full  md:w-1/4 bg-yellow-400 text-white border border-yellow-400 p-2 rounded-lg font-semibold hover:bg-yellow-500 transition duration-300'>
           I'm In
